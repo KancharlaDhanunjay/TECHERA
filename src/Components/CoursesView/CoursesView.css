@@ -1,0 +1,12 @@
+.course-view {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+.nav-link {
+  text-decoration: none;
+  font-family: 'Roboto';
+  color: #1e293b;
+}

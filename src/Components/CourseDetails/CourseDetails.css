@@ -1,0 +1,10 @@
+.course-details-container {
+  box-shadow: 5px 10px #e8e8e8;
+  margin: 20px;
+  display: flex;
+  gap: 10px;
+  border-radius: 10px;
+}
+.details-image {
+  width: 200px;
+}
